@@ -1,6 +1,3 @@
-# Numberplate_recognition
-
----
 
 #  Nepali Number Plate Recognition (ANPR)
 
