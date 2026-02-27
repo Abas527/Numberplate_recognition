@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/NITRO V15/Desktop/My_folder/projects/numberplate_recognition/runs/mlflow/671191732614852789/f99f5738e57343e0b68f57ab57ac6554/artifacts
+end_time: 1772189815611
+entry_point_name: ''
+experiment_id: '671191732614852789'
+lifecycle_stage: active
+run_id: f99f5738e57343e0b68f57ab57ac6554
+run_name: numberplate_detector
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772183269275
+status: 3
+tags: []
+user_id: NITRO V15
