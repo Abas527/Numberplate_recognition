@@ -1,8 +1,5 @@
 # Numberplate_recognition
 
-Here is a **professional, portfolio-ready README.md** for your project 👇
-You can copy this directly into your `README.md`.
-
 ---
 
 #  Nepali Number Plate Recognition (ANPR)
@@ -62,9 +59,9 @@ numberplate_recognition/
 │
 ├── runs/
 │   └── detect/
-│       └── numberplate_detector/
-│           └── weights/
-│               └── best.pt
+│       └── runs/numberplate_detector/
+│                └── weights/
+│                    └── best.pt
 │
 ├── fonts/
 │   └── NotoSansDevanagari.ttf
