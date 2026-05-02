@@ -75,7 +75,7 @@ numberplate_recognition/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/nepali-anpr.git
+git clone https://github.com/Abas527/Numberplate_recognition.git
 cd nepali-anpr
 ```
 
